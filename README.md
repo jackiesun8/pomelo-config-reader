@@ -50,7 +50,7 @@ This is a array that contain row nums indicate which row will be ignored when pa
 This config indicate which column is using for index. If indexColumn configed,then the idx config will be no effect.
 
 ####type support
-Int,Float,String,Boolean,TS(timestamp,format is YYYY/MM/DD HH:mm),Array4Int,Array4String(array delimeter by '#')
+Int,Float,String,Boolean,TS(timestamp,format is YYYY/MM/DD HH:mm),Array4Int,Array4String(array delimeter by '|')
 
 Note: row and column are all start from 1
 
